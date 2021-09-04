@@ -20,8 +20,8 @@ $(document).ready(function(){
     })
 
     // Spesifikasikan per div!!
-    $("div[class^='content-item").click(function(){
-        var url = "http://www.example.com";
+    $("content-item-1").click(function(){
+        var url = "https://open.spotify.com/playlist/5Ku71TNCBP6QN5cnpbBBmX";
         window.open(url, '_blank');
     })
 
