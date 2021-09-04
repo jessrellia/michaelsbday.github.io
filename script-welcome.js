@@ -6,7 +6,7 @@ function validate() {
 		window.open("https://michaelsbday.github.io/gallery.html");
 	} else {
 		document.getElementById("password-entry").innerHTML = "";
-        alert("Password is wrong!");
+        	alert("Password is wrong!");
 		return false;
 	}
 }
