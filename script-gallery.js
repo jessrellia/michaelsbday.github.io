@@ -20,7 +20,7 @@ $(document).ready(function(){
     })
 
     // Spesifikasikan per div!!
-    $("spotify").click(function(){
+    $("#spotify").click(function(){
         var url = "http://www.example.com";
         window.open(url, '_blank');
     })
