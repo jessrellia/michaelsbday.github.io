@@ -25,6 +25,13 @@ $(document).ready(function(){
         window.open(url, '_blank');
     })
 
+    $("#instagram").click(function(){
+        var url = "https://www.instagram.com/michaels22memories/";
+        window.open(url, '_blank');
+    })
+
+    
+
     // $('.close').click(function(){
     //     $('.modal').stop().fadeOut()
     //     return false;
