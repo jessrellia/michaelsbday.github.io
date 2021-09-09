@@ -45,21 +45,4 @@ $(document).ready(function(){
         window.open(url, '_blank');
     })
 
-    
-    
-
-
-    
-
-    // $('.close').click(function(){
-    //     $('.modal').stop().fadeOut()
-    //     return false;
-    // })
-
-    // $(".icon").click(function (){
-    //     console.log("clicked");
-    //     $(".toggler").toggleClass('responsive');
-
-    // })
-
 })
