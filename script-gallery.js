@@ -40,6 +40,11 @@ $(document).ready(function(){
         window.open(url, '_blank');
     })
 
+    $("#pickuplines").click(function(){
+        var url = "https://quizlet.com/id/614434815/pick-up-lines-flash-cards/";
+        window.open(url, '_blank');
+    })
+
     
     
 
