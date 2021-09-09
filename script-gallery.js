@@ -30,6 +30,20 @@ $(document).ready(function(){
         window.open(url, '_blank');
     })
 
+    $("#animals").click(function(){
+        var url = "https://www.pinterest.com/jessaurellia/cotton-balls/";
+        window.open(url, '_blank');
+    })
+
+    $("#places").click(function(){
+        var url = "https://www.pinterest.com/jessaurellia/to-go/";
+        window.open(url, '_blank');
+    })
+
+    
+    
+
+
     
 
     // $('.close').click(function(){
